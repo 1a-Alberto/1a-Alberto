@@ -1,7 +1,7 @@
 
 <h1 align="center">✨Hola✨</h1>
 <h2 align="center">Soy HAME-RU, y te doy la bienvenida a mi github</h2>
-<h3 align="center">Un pequeño entusiasta de ciberseguridad</h3>
+<h3 align="center">Un pequeño entusiasta de la ciberseguridad</h3>
 
 <h3 align="center">Mis redes sociales:</h3>
 <p align="center">
